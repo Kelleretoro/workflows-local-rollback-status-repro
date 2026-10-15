@@ -1,0 +1,6 @@
+{
+  "name": "workflows-local-rollback-status-repro",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-01",
+  "workflows": [{ "name": "repro", "binding": "REPRO", "class_name": "ReproWorkflow" }]
+}
